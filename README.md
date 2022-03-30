@@ -2,8 +2,6 @@
 
 Simple realization of PvE version of game without objects etc :)
 
-<br />
-
 ## Build
 
 To build game just use
